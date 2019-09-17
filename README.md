@@ -1,5 +1,7 @@
 # vue-cli-singpage
 
+工作室前端初始化Vue开发环境（内置Vuex，axios，iview）
+
 ## Project setup
 ```
 npm install
@@ -13,6 +15,8 @@ npm run local
 ### Compiles and minifies for production
 ```
 npm run build
+npm run build-dev
+npm run build-prod
 ```
 
 ### Run your tests
